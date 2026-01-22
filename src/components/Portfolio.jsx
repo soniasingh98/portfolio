@@ -122,7 +122,7 @@ const projectCategories = [
       ]
     },
     {
-      title: "React & Frontend",
+      title: "React.js & NextJs",
       color: "from-blue-500 to-purple-500",
       projects: [
         {
